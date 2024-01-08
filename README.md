@@ -12,5 +12,3 @@ Our mission: to predict house prices with precision. By analyzing key factors su
 In a market where every detail counts, our accurate price estimations become an indispensable tool for informed decision-making in the real estate realm.
 
 ---
-
-Embark on this journey of data-driven real estate analysis and unlock the secrets of property valuation!
