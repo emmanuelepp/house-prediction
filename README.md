@@ -19,13 +19,13 @@ To run this project, follow these steps:
 
 2. Go to the main project forder and run:
 
-   ```bash
    On Windows:
+   ```bash
    venv/Scripts/activate
    ```
-
-   ```bash
+   
    On macOS and Linux:
+   ```bash
    source venv/bin/activate
    ```
 
@@ -34,13 +34,15 @@ To run this project, follow these steps:
    ```bash
    pip install -r requirements.txt
    ```
-
 4. Run the project :)
 
-FAQ
 
-Q: Why the command "venv/Scripts/activate" does not work?
+## FAQ
+
+**Q: Why the command "venv/Scripts/activate" does not work?**
+
 A: You have to install virtualenv, run: pip install virtualenv.
 
-Q: Why when I run the project it tells me that my version of python is invalid?
+**Q: Why when I run the project it tells me that my version of python is invalid?**
+
 A: You have to select the version of python that you are running in your virtual environment or restart the Kernel. Usually this works.
